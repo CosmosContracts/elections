@@ -1,0 +1,15 @@
+{
+    "messages": [
+        {
+            "@type": "/cosmwasm.wasm.v1.MsgExecuteContract",
+            "sender": "juno1s33zct2zhhaf60x4a90cpe9yquw99jj0zen8pt",
+            "contract": "<Department Contract Addr>",
+            "msg": "<Base 64 of modified msg_execute_data.json>",
+            "funds": []
+        }
+    ],
+    "metadata": "{\"title\": \"<Proposal Title>\",\"authors\": [\"juno_community\"],\"summary\": \"<Proposal Summary>\",\"details\": \"<Proposal Details>\",\"proposal_forum_url\": \"\",\"vote_option_context\": \"\"}",
+    "deposit": "2000000000ujuno",
+    "title": "<Proposal Title>",
+    "summary": "<Prroposal Summary>"
+}

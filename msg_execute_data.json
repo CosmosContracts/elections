@@ -1,0 +1,11 @@
+{
+    "update_members": {
+        "add": [
+            {
+                "weight": 100,
+                "addr": "<Candidate Address>"
+            }
+        ],
+        "remove": []
+    }
+}

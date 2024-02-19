@@ -10,6 +10,6 @@ Finally, you can listen to the recorded ["Meet Your Nominees"](https://open.spot
 
 ## Voting
 
-- If confirmed by a Yes vote, the nominee will be appointed to the Department for the six month term of the Charter.
-- If rejected by a No or No With Veto vote, the seat will remain vacant.
+- If confirmed by a Yes vote, the nominee will be appointed to the Department.
+- If rejected by a No or No With Veto vote, this nominee will not be appointed. If all the nominees are rejected, the seat will remain vacant.
 - Voting Abstain contributes to meeting quorum but does not express a preference either way.

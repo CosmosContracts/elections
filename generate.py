@@ -48,8 +48,8 @@ def extract_md_content(md_file_path):
     with open(md_file_path, 'r', encoding='utf-8') as md_file:
         lines = md_file.readlines()
         title = lines[0].strip().replace('# ', '')
-        summary = " ".join(lines[:10]).strip()
-        details = "".join(lines).strip()
+        summary = " ".join(lines[:10]).strip().replace("\n", "\\n")
+        details = "".join(lines).strip().replace("\n", "\\n")
     return title, summary, details
 
 def generate_files(proposal_type, department_name, candidate_name, candidate_address, candidate_twitter, candidate_discord, candidate_nomination_url, twitter_space_url, department_contract_addr):

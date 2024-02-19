@@ -6,7 +6,7 @@ Find more at the nominee’s social media: <https://twitter.com/CoiningReason or
 
 You can view all the Operations nominees and their formal nominations at the [Operations nomination thread on Commonwealth](https://commonwealth.im/juno/discussion/14947-juno-charter-operations-departmentnominations-round-2-closed?comment=72110).
 
-Finally, you can listen to the recorded ["Meet Your Nominees"](https://open.spotify.com/episode/3viz38oqdkWU3EPWDXWJb4) X Space hosted and organized by the Juno Communications subDAO.
+Finally, you can listen to the recorded [Meet Your Nominees](https://open.spotify.com/episode/3viz38oqdkWU3EPWDXWJb4) X Space hosted and organized by the Juno Communications subDAO.
 
 ## Voting
 

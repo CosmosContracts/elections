@@ -2,7 +2,7 @@
     "messages": [
         {
             "@type": "/cosmwasm.wasm.v1.MsgExecuteContract",
-            "sender": "juno1s33zct2zhhaf60x4a90cpe9yquw99jj0zen8pt",
+            "sender": "juno10d07y265gmmuvt4z0w9aw880jnsr700jvss730",
             "contract": "<Department Contract Addr>",
             "msg": "<Base 64 of modified msg_execute_data.json>",
             "funds": []
